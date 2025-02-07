@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <View style={styles.logo}>
       <Image
-        source={{ uri: "https://example.com/tree-icon.png" }}
+        source={{ uri: "https://th.bing.com/th/id/OIP.Jn0mye46GSsPFZYHpPAzsgHaHa?rs=1&pid=ImgDetMain" }}
         style={styles.icon}
       />
     </View>
