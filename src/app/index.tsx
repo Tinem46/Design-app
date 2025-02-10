@@ -14,10 +14,16 @@ import Slidebar from "@/src/components/Other/Slidebar";
 import Logo from "@/src/components/Other/Logo";
 import MenuLeft from "@/src/components/MenuLeft";
 
+import Input from "@/src/components/Input";
+import Frame from "@/src/components/Frame";
+import ProjectList from "../components/ProjectList";
+import AIInput from "../components/AIInput";
+
 const Index = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>HOME</Text>
+      <AIInput/>
     </View>
   );
 };
